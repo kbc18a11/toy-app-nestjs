@@ -1,0 +1,2 @@
+1. プロジェクト作成
+  npx @nestjs/cli new toy-app-nestjs
